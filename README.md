@@ -1,2 +1,2 @@
-# Programming_fundamentals_with_python
+# Programming-fundamentals-with-python
 SoftUni Programming fundamentals module with python
