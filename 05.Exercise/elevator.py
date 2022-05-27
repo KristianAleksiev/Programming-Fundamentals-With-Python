@@ -1,0 +1,10 @@
+number_of_people = int(input())
+capacity = int(input())
+courses = 0
+
+if capacity != 0:
+    courses = number_of_people // capacity
+    if number_of_people % capacity != 0:
+        courses += 1
+
+print(courses)
