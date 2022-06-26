@@ -34,4 +34,4 @@ print(f"The National Revenue Agency will collect {total_tax:.2f} euros in taxes.
 
 
 
-# family 3 7210>>van 4 2345>>heavyDuty 9 31000>>sports 4 7410
+
