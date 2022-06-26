@@ -42,10 +42,3 @@ while True:
                 continue
 
 print(", ".join(phones_list))
-
-
-
-# SamsungA50, MotorolaG5, IphoneSE
-# Add - Iphone10
-# Remove - IphoneSE
-# End
