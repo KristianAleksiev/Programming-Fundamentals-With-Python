@@ -14,7 +14,7 @@ while ":" in command:
     students_info[student_course][student_id] = student_name
     command = input()
 
-course = " ".join(command.split(" "))
+course = " ".join(command.split("_"))
 
 for key, value in students_info.items():
     if key == course:
