@@ -1,0 +1,13 @@
+# .split()
+# .isupper()
+# .isdigit()
+# .isalpha() - Only letters
+# .islower()
+# .capitalize()
+# .title()
+# .isalnum()
+# .find()
+# .rstrip()
+# .lstrip()
+# .strip()
+# .replace()
